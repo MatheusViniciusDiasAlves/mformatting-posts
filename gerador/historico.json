@@ -188,5 +188,103 @@
   ],
   "caption": "Nem sempre o problema é a internet contratada, muitas vezes é onde o roteador está 📶\n\nRoteador escondido atrás da TV ou num canto da casa perde sinal fácil. A rede 5 GHz é mais rápida de perto, e a 2.4 GHz alcança mais longe. Pra casas grandes, um sistema mesh espalha o sinal sem quedas.\n\nQual cômodo da sua casa é a zona morta do Wi-Fi? Conta aqui 👇\n\n#wifi #internet #roteador #tecnologia #dicasdetecnologia #rolandia",
   "data": "2026-10-23"
+ },
+ {
+  "slug": "15-hd-morrendo",
+  "tag": "// MANUTENÇÃO",
+  "title": "Sinais de que seu HD ou SSD está no fim",
+  "items": [
+   "Arquivos somem ou não abrem mais",
+   "Cliques e barulhos estranhos (HD)",
+   "Travamentos e lentidão do nada",
+   "Tela azul ou erro ao ligar o PC",
+   "Notou algo? Backup antes de tudo"
+  ],
+  "caption": "Disco não costuma morrer de uma vez: ele dá sinais antes 💾\n\nSe o PC começou a travar sem motivo, arquivos estão corrompendo ou o HD está fazendo barulho de clique, não espere. Primeiro salve seus arquivos, depois vale checar a saúde do disco (o S.M.A.R.T., com programas como o CrystalDiskInfo) e, se for o caso, trocar.\n\nSeu computador está com algum desses sintomas? Chama no direct que eu dou uma olhada.\n\n#manutencaodecomputadores #ssd #hd #backup #informatica #rolandia",
+  "data": "2026-10-24"
+ },
+ {
+  "slug": "16-dominio-proprio",
+  "tag": "// SITES",
+  "title": "Por que ter um domínio próprio?",
+  "items": [
+   "seunegocio.com.br passa confiança",
+   "E-mail profissional com seu nome",
+   "O endereço é seu, não da plataforma",
+   "Fácil de lembrar e divulgar",
+   "No Brasil, .com.br é no Registro.br"
+  ],
+  "caption": "Domínio é o endereço do seu site, tipo seunegocio.com.br 🌐\n\nCom ele você ganha um endereço fácil de divulgar, pode ter e-mail profissional (contato@seunegocio.com.br em vez de um @gmail) e não fica preso a nenhuma plataforma. O registro de .com.br é feito no Registro.br e custa pouco por ano.\n\nQuer ajuda pra escolher o domínio e colocar seu site no ar? Me chama no direct.\n\n#sites #dominio #emailprofissional #presencadigital #pequenosnegocios #rolandia",
+  "data": "2026-10-25"
+ },
+ {
+  "slug": "17-erros-perfil-google",
+  "tag": "// SEU NEGÓCIO NO GOOGLE",
+  "title": "Erros que escondem sua empresa no Google",
+  "items": [
+   "Horário desatualizado (e feriados)",
+   "Categoria principal errada",
+   "Só a foto do logo, nada do local",
+   "Nome cheio de palavras-chave",
+   "Perfil criado e nunca verificado"
+  ],
+  "caption": "Ter o Perfil da Empresa no Google é o primeiro passo, mas alguns detalhes atrapalham bastante 📍\n\nCliente que chega e encontra a porta fechada não volta. Categoria errada faz você aparecer na busca errada. E colocar palavras-chave no nome da empresa vai contra as regras do Google e pode até suspender o perfil.\n\nQuer que eu revise o perfil da sua empresa? Comenta \"GOOGLE\" ou chama no direct.\n\n#googlemeunegocio #perfildaempresa #seolocal #marketinglocal #pequenosnegocios #rolandia",
+  "data": "2026-10-26"
+ },
+ {
+  "slug": "18-ia-o-que-nao-colocar",
+  "tag": "// INTELIGÊNCIA ARTIFICIAL",
+  "title": "IA no trabalho: o que NÃO colar no chat",
+  "items": [
+   "Senhas e dados bancários",
+   "CPF e dados de clientes",
+   "Contratos e informações sigilosas",
+   "Troque nomes reais por exemplos",
+   "Siga a política de IA da empresa"
+  ],
+  "caption": "A IA ajuda muito no dia a dia: resume, organiza, rascunha. Mas tudo que você cola no chat sai do seu computador e vai pros servidores do serviço 🤖\n\nAntes de colar um documento, pense: eu mandaria isso por e-mail pra um desconhecido? Se não, tire os dados sensíveis ou troque por exemplos. E se a empresa tiver regras ou uma versão corporativa da ferramenta, use ela.\n\nVocê já usa IA no trabalho? Conta aqui nos comentários 👇\n\n#inteligenciaartificial #produtividade #privacidade #lgpd #tecnologia",
+  "data": "2026-10-27"
+ },
+ {
+  "slug": "19-python-automacao",
+  "tag": "// PROGRAMAÇÃO",
+  "title": "Tarefas chatas que o Python resolve",
+  "items": [
+   "Renomear centenas de arquivos",
+   "Juntar várias planilhas em uma",
+   "Gerar relatórios automáticos",
+   "Enviar e-mails em lote",
+   "Puxar dados de sites e sistemas"
+  ],
+  "caption": "Sabe aquela tarefa repetitiva que toma sua tarde toda? Muitas vezes um script de poucas linhas em Python faz em segundos 🐍\n\nCom bibliotecas como pandas (planilhas) e openpyxl (Excel), dá pra automatizar boa parte do trabalho de escritório, e o script pode rodar sozinho todo dia.\n\nTem alguma tarefa repetitiva na sua empresa que dava pra automatizar? Conta nos comentários ou chama no direct.\n\n#python #automacao #programacao #produtividade #desenvolvimentodesistemas #rolandia",
+  "data": "2026-10-28"
+ },
+ {
+  "slug": "20-golpe-whatsapp",
+  "tag": "// SEGURANÇA",
+  "title": "Golpe no WhatsApp: como se proteger",
+  "items": [
+   "Nunca repasse o código do SMS",
+   "Ative a confirmação em duas etapas",
+   "Pediu Pix? Ligue e confirme antes",
+   "Número novo + foto conhecida: cuidado",
+   "Foto de perfil só para contatos"
+  ],
+  "caption": "Os golpes mais comuns no WhatsApp são dois: clonar sua conta pedindo o código de 6 dígitos, e criar um número novo com a foto de alguém conhecido pra pedir dinheiro 📱\n\nO código do WhatsApp é só seu, ninguém de empresa nenhuma precisa dele. Ative a confirmação em duas etapas (Configurações > Conta) e, se alguém pedir Pix, ligue pra pessoa antes de transferir.\n\nCompartilha com aquele familiar que precisa ver isso 👇\n\n#golpe #whatsapp #segurancadigital #pix #ciberseguranca #rolandia",
+  "data": "2026-10-29"
+ },
+ {
+  "slug": "21-windows-10",
+  "tag": "// TECNOLOGIA",
+  "title": "Windows 10 sem atualizações: e agora?",
+  "items": [
+   "Sem atualização, mais brecha p/ vírus",
+   "Veja se seu PC aceita o Windows 11",
+   "Ele exige TPM 2.0 e CPU mais nova",
+   "Faça backup antes de atualizar",
+   "PC antigo? Avalie a troca com calma"
+  ],
+  "caption": "O suporte ao Windows 10 terminou em outubro de 2025, e o período extra de atualizações de segurança (ESU) para uso doméstico acabou agora em outubro de 2026 🖥️\n\nO computador continua ligando normalmente, mas sem correções de segurança fica mais exposto. O app \"Verificação de Integridade do PC\" mostra se sua máquina pode ir pro Windows 11. Se não puder, dá pra avaliar com calma o que vale mais a pena.\n\nNão sabe se seu PC aguenta o Windows 11? Chama no direct que eu verifico.\n\n#windows10 #windows11 #manutencaodecomputadores #segurancadigital #informatica #rolandia",
+  "data": "2026-10-30"
  }
 ]
