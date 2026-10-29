@@ -286,5 +286,103 @@
   ],
   "caption": "O suporte ao Windows 10 terminou em outubro de 2025, e o período extra de atualizações de segurança (ESU) para uso doméstico acabou agora em outubro de 2026 🖥️\n\nO computador continua ligando normalmente, mas sem correções de segurança fica mais exposto. O app \"Verificação de Integridade do PC\" mostra se sua máquina pode ir pro Windows 11. Se não puder, dá pra avaliar com calma o que vale mais a pena.\n\nNão sabe se seu PC aguenta o Windows 11? Chama no direct que eu verifico.\n\n#windows10 #windows11 #manutencaodecomputadores #segurancadigital #informatica #rolandia",
   "data": "2026-10-30"
+ },
+ {
+  "slug": "22-notebook-esquentando",
+  "tag": "// MANUTENÇÃO",
+  "title": "Notebook esquentando demais?",
+  "items": [
+   "Use em mesa firme, não na cama",
+   "Deixe as saídas de ar livres",
+   "Poeira no cooler trava o ar",
+   "Pasta térmica seca piora o calor",
+   "Feche o que roda à toa"
+  ],
+  "caption": "Notebook quente, ventoinha gritando e tudo ficando lento? Quando esquenta demais, o processador reduz a velocidade sozinho pra se proteger, e aí o desempenho cai 🔥\n\nUsar em cima da cama ou do sofá tampa as entradas de ar. E com o tempo a poeira acumula no cooler e a pasta térmica resseca, aí só uma limpeza interna resolve.\n\nO seu tá esquentando? Me chama no direct que eu dou uma olhada.\n\n#notebook #manutencaodenotebook #limpezainterna #informatica #rolandia",
+  "data": "2026-10-31"
+ },
+ {
+  "slug": "23-o-que-um-site-precisa",
+  "tag": "// SITES",
+  "title": "O que um bom site precisa ter",
+  "items": [
+   "Botão de WhatsApp fácil de achar",
+   "Endereço, horário e mapa",
+   "Carregar rápido, até no 4G",
+   "Fotos reais do seu trabalho",
+   "Cadeado (HTTPS) na barra"
+  ],
+  "caption": "Site bonito que não ajuda o cliente a te chamar não cumpre o papel 🌐\n\nO básico que funciona: contato em um toque, informações de onde e quando você atende, página leve que abre rápido no celular, fotos de verdade do seu serviço e o cadeado do HTTPS, que mostra que a conexão é segura.\n\nQuer saber o que falta no seu site? Comenta aqui ou chama no direct.\n\n#site #sitesprofissionais #marketingdigital #pequenasempresas #empreendedorismo #rolandia",
+  "data": "2026-11-01"
+ },
+ {
+  "slug": "24-avaliacoes-google",
+  "tag": "// SEU NEGÓCIO NO GOOGLE",
+  "title": "Como ter mais avaliações no Google",
+  "items": [
+   "Peça logo após um bom atendimento",
+   "Envie o link direto pra avaliar",
+   "Responda todas, até as negativas",
+   "Agradeça quem deixou avaliação",
+   "Nunca compre avaliação falsa"
+  ],
+  "caption": "Avaliação no Google pesa muito na hora de alguém escolher entre você e o concorrente ⭐\n\nO jeito mais simples é pedir: no Perfil da Empresa tem a opção de gerar um link direto pra avaliação, é só mandar pelo WhatsApp depois do atendimento. Responder com educação, inclusive as críticas, mostra que você cuida do cliente.\n\nE nada de comprar avaliação: vai contra as regras do Google e pode prejudicar o perfil.\n\nPrecisa de ajuda com seu perfil? Chama no direct.\n\n#googlemeunegocio #perfildaempresa #seolocal #avaliacoes #pequenasempresas #rolandia",
+  "data": "2026-11-02"
+ },
+ {
+  "slug": "25-ia-confira-resposta",
+  "tag": "// INTELIGÊNCIA ARTIFICIAL",
+  "title": "IA também erra: confira sempre",
+  "items": [
+   "Ela pode inventar dados com confiança",
+   "Confira números, datas e leis",
+   "Peça a fonte e abra o link",
+   "Revise antes de mandar ao cliente",
+   "Use como rascunho, não verdade final"
+  ],
+  "caption": "A IA ajuda muito no dia a dia, mas às vezes ela responde algo errado com toda a segurança do mundo. Isso tem até nome: \"alucinação\" 🤖\n\nPra resumir, revisar texto ou organizar ideias ela é ótima. Mas valor, data, lei ou informação técnica: confira antes de usar. Ela agiliza o trabalho, a responsabilidade pelo resultado continua sendo sua.\n\nVocê já pegou a IA inventando alguma coisa? Conta aqui nos comentários 👇\n\n#inteligenciaartificial #ia #produtividade #trabalho #tecnologia",
+  "data": "2026-11-03"
+ },
+ {
+  "slug": "26-javascript",
+  "tag": "// PROGRAMAÇÃO",
+  "title": "JavaScript: a linguagem da web",
+  "items": [
+   "Roda direto no navegador",
+   "Deixa as páginas interativas",
+   "Com Node.js, roda no servidor",
+   "Java e JavaScript são diferentes",
+   "Boa porta de entrada na web"
+  ],
+  "caption": "Quase todo site que você abre usa JavaScript. É ele que faz o menu abrir, o formulário avisar que faltou um campo e a página atualizar sem recarregar 💻\n\nCom o Node.js, a mesma linguagem também roda no servidor. E não, apesar do nome, Java e JavaScript são linguagens bem diferentes.\n\nTá começando na programação e ficou com dúvida? Manda nos comentários.\n\n#javascript #programacao #desenvolvimentoweb #nodejs #devs #tecnologia",
+  "data": "2026-11-04"
+ },
+ {
+  "slug": "27-email-falso",
+  "tag": "// SEGURANÇA",
+  "title": "E-mail falso: como identificar",
+  "items": [
+   "Confira o endereço do remetente",
+   "Urgência demais é sinal de golpe",
+   "Veja o link antes de clicar",
+   "Banco não pede senha por e-mail",
+   "Anexo inesperado? Não abra"
+  ],
+  "caption": "\"Sua conta será bloqueada hoje\", \"pagamento pendente\", \"clique para regularizar\"... e-mail falso (phishing) sempre tenta te apressar 📧\n\nAntes de clicar, olhe o endereço completo de quem enviou e passe o mouse no link pra ver pra onde ele leva de verdade. Na dúvida, entre no site ou app oficial digitando o endereço você mesmo.\n\nRecebeu algo suspeito? Me manda no direct que eu te ajudo a conferir.\n\n#phishing #segurancadigital #golpe #ciberseguranca #email #rolandia",
+  "data": "2026-11-05"
+ },
+ {
+  "slug": "28-memoria-ram",
+  "tag": "// TECNOLOGIA",
+  "title": "Quanta memória RAM você precisa?",
+  "items": [
+   "8 GB: básico, já fica no limite",
+   "16 GB: o ideal pra maioria",
+   "32 GB: edição pesada e jogos",
+   "Veja o uso no Gerenciador",
+   "Muitos notebooks aceitam upgrade"
+  ],
+  "caption": "Navegador com várias abas, planilha, WhatsApp Web e reunião ao mesmo tempo: é a memória RAM que segura tudo isso aberto 🧠\n\nNo Windows 11, 8 GB funciona, mas aperta rápido. Pra maioria das pessoas, 16 GB dá folga. Abra o Gerenciador de Tarefas (Ctrl+Shift+Esc), aba Desempenho, e veja quanto está usando.\n\nAtenção: alguns notebooks têm a memória soldada na placa e não dá pra aumentar. Quer saber se o seu aceita? Chama no direct.\n\n#memoriaram #upgrade #informatica #notebook #manutencaodecomputadores #rolandia",
+  "data": "2026-11-06"
  }
 ]
