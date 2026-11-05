@@ -384,5 +384,19 @@
   ],
   "caption": "Navegador com várias abas, planilha, WhatsApp Web e reunião ao mesmo tempo: é a memória RAM que segura tudo isso aberto 🧠\n\nNo Windows 11, 8 GB funciona, mas aperta rápido. Pra maioria das pessoas, 16 GB dá folga. Abra o Gerenciador de Tarefas (Ctrl+Shift+Esc), aba Desempenho, e veja quanto está usando.\n\nAtenção: alguns notebooks têm a memória soldada na placa e não dá pra aumentar. Quer saber se o seu aceita? Chama no direct.\n\n#memoriaram #upgrade #informatica #notebook #manutencaodecomputadores #rolandia",
   "data": "2026-11-06"
+ },
+ {
+  "slug": "29-hd-para-ssd",
+  "tag": "// MANUTENÇÃO",
+  "title": "Trocar o HD por SSD vale a pena?",
+  "items": [
+   "O Windows liga bem mais rápido",
+   "Programas abrem sem aquela espera",
+   "Sem peças móveis: aguenta mais tranco",
+   "Dá pra clonar e manter seus arquivos",
+   "Confira o encaixe: SATA ou M.2"
+  ],
+  "caption": "PC ou notebook com HD demorando uma eternidade pra ligar? Muitas vezes o problema não é o processador, é o disco 💾\n\nO HD tem um disco girando e uma agulha lendo os dados. O SSD é todo eletrônico, por isso lê e grava muito mais rápido. Na maioria das máquinas que ainda usam HD, essa troca é o upgrade que mais aparece no dia a dia.\n\nDá pra clonar o sistema pro SSD e continuar com seus programas e arquivos. Antes de comprar, vale ver qual encaixe a sua máquina aceita (SATA ou M.2).\n\nQuer saber se o seu aceita SSD? Chama no direct que eu verifico.\n\n#ssd #upgrade #notebook #manutencaodecomputadores #informatica #rolandia",
+  "data": "2026-11-07"
  }
 ]
