@@ -1,402 +1,416 @@
 [
- {
-  "slug": "01-pc-lento",
-  "tag": "// MANUTENÇÃO",
-  "title": "PC lento? Cheque isso antes de formatar",
-  "items": [
-   "Programas abrindo junto com o Windows",
-   "Disco quase cheio (deixe 15% livre)",
-   "Poeira travando o cooler",
-   "HD antigo: um SSD muda tudo",
-   "Vírus e extensões estranhas no navegador"
-  ],
-  "caption": "Nem todo PC lento precisa ser formatado 💻\n\nAntes de apagar tudo, vale olhar esses 5 pontos. Na maioria das vezes o problema é um deles, e só trocar o HD por um SSD já deixa o computador outro.\n\nSalva esse post pra quando precisar 📌\n\nSeu PC tá se arrastando? Chama no direct que a gente dá uma olhada.\n\n#manutencaodecomputador #pclento #ssd #informatica #rolandia #dicasdetecnologia",
-  "data": "2026-10-10"
- },
- {
-  "slug": "02-google",
-  "tag": "// SEU NEGÓCIO NO GOOGLE",
-  "title": "Quem não aparece no Google, não é encontrado",
-  "items": [
-   "Cadastre o Perfil da Empresa (é grátis)",
-   "Coloque horário, telefone e fotos reais",
-   "Peça avaliação aos clientes satisfeitos",
-   "Tenha um site pro Google indicar",
-   "Responda as avaliações, boas e ruins"
-  ],
-  "caption": "Quando alguém procura \"barbearia perto de mim\" ou \"conserto de PC em Rolândia\", quem aparece primeiro leva o cliente 📍\n\nO Perfil da Empresa no Google é gratuito e é a vitrine mais vista da cidade. Com um site junto, o Google confia mais no seu negócio e te mostra mais vezes.\n\nQuer ajuda pra deixar seu negócio bem posicionado? Chama no direct.\n\n#google #perfildaempresa #marketinglocal #pequenosnegocios #rolandia #negociolocal",
-  "data": "2026-10-11"
- },
- {
-  "slug": "03-ia-produtividade",
-  "tag": "// INTELIGÊNCIA ARTIFICIAL",
-  "title": "4 jeitos de usar IA pra ganhar tempo no trabalho",
-  "items": [
-   "Resumir e-mails e documentos longos",
-   "Rascunhar respostas para clientes",
-   "Organizar planilhas e listas",
-   "Tirar dúvidas e aprender algo novo rápido"
-  ],
-  "caption": "Inteligência artificial não é coisa de filme: hoje ela já ajuda muita gente a fazer em minutos o que levava horas 🤖\n\nO segredo é usar como assistente: ela faz o rascunho, você revisa e decide. Começa por uma dessas 4 tarefas e vê a diferença na sua semana.\n\nQuer aprender a usar IA no seu dia a dia? Comenta \"IA\" aqui embaixo.\n\n#inteligenciaartificial #ia #produtividade #tecnologia #dicasdetecnologia #trabalho",
-  "data": "2026-10-12"
- },
- {
-  "slug": "04-limpeza-pc",
-  "tag": "// MANUTENÇÃO",
-  "title": "De quanto em quanto tempo limpar o PC por dentro?",
-  "items": [
-   "Limpeza interna: a cada 6 meses a 1 ano",
-   "Pasta térmica: a cada 1 a 2 anos",
-   "Notebook esquentando ou fazendo barulho? Já passou da hora",
-   "Nunca use aspirador direto nas peças"
-  ],
-  "caption": "Poeira é o inimigo silencioso do computador 🌡️\n\nEla tampa o cooler, o PC esquenta, fica lento e as peças duram menos. Uma limpeza preventiva sai bem mais barata que trocar placa queimada.\n\nFaz tempo que seu PC não vê uma limpeza? Chama no direct e agenda a sua.\n\n#limpezadepc #manutencaopreventiva #notebook #pastatermica #informatica #rolandia",
-  "data": "2026-10-13"
- },
- {
-  "slug": "05-site-vs-instagram",
-  "tag": "// SITES",
-  "title": "Só Instagram não basta. Por quê?",
-  "items": [
-   "O Instagram é alugado, o site é seu",
-   "O Google mostra sites, não perfis",
-   "Cliente confia mais em quem tem site",
-   "Cardápio, agenda e catálogo num link só"
-  ],
-  "caption": "Instagram é ótimo pra mostrar o dia a dia, mas ele não é seu: se a conta cair ou o algoritmo mudar, você perde o contato com os clientes 📲\n\nUm site é o endereço fixo do seu negócio na internet. Aparece no Google, passa confiança e organiza tudo num link só.\n\nO ideal? Os dois trabalhando juntos.\n\nQuer saber como ficaria o seu? Chama no direct.\n\n#site #presencadigital #pequenosnegocios #marketingdigital #rolandia #empreendedorismo",
-  "data": "2026-10-14"
- },
- {
-  "slug": "06-linguagens",
-  "tag": "// PROGRAMAÇÃO",
-  "title": "Qual linguagem aprender primeiro?",
-  "items": [
-   "JavaScript: sites e apps, roda no navegador",
-   "Python: automação, dados e IA",
-   "Java / C#: sistemas de empresas",
-   "Dica: escolha pelo que você quer construir"
-  ],
-  "caption": "Essa é a dúvida nº 1 de quem quer começar na programação 👨‍💻\n\nNão existe linguagem \"melhor\", existe a melhor pro seu objetivo. Quer fazer sites? JavaScript. Quer automatizar tarefas ou mexer com dados? Python.\n\nO importante é começar e construir projetos de verdade.\n\nQual você está aprendendo? Conta aqui nos comentários 👇\n\n#programacao #javascript #python #desenvolvimentoweb #tecnologia #aprenderaprogramar",
-  "data": "2026-10-15"
- },
- {
-  "slug": "07-backup",
-  "tag": "// SEGURANÇA",
-  "title": "Backup: a regra 3-2-1",
-  "items": [
-   "3 cópias dos seus arquivos",
-   "2 lugares diferentes (PC + HD externo)",
-   "1 cópia fora de casa (nuvem)",
-   "Teste: abra um arquivo do backup de vez em quando"
-  ],
-  "caption": "HD queima, notebook é roubado, vírus apaga arquivo. Não é questão de \"se\", é de \"quando\" 💾\n\nCom a regra 3-2-1 você nunca perde fotos, documentos e arquivos do trabalho. E o melhor: dá pra deixar tudo automático.\n\nPrecisa de ajuda pra configurar seu backup? Chama no direct.\n\n#backup #segurancadigital #nuvem #informatica #dicasdetecnologia #rolandia",
-  "data": "2026-10-16"
- },
- {
-  "slug": "08-bateria-notebook",
-  "tag": "// MANUTENÇÃO",
-  "title": "Bateria do notebook durando mais",
-  "items": [
-   "Não use no colo, cama ou sofá",
-   "Evite deixar no sol ou no carro quente",
-   "Baixe o brilho e use modo economia",
-   "Feche apps pesados em segundo plano",
-   "Tem limite de carga em 80%? Ative"
-  ],
-  "caption": "A bateria do notebook não precisa morrer em 1 ano 🔋\n\nO maior inimigo dela é o calor. Usar o notebook em cima da cama tampa as saídas de ar, ele esquenta e a bateria se desgasta mais rápido. Muitos modelos ainda têm a opção de limitar a carga em 80%, que ajuda quem trabalha sempre na tomada.\n\nSeu notebook já não segura carga? Chama no direct que a gente avalia.\n\n#notebook #bateria #manutencaodenotebook #informatica #rolandia #dicasdetecnologia",
-  "data": "2026-10-17"
- },
- {
-  "slug": "09-site-celular",
-  "tag": "// SITES",
-  "title": "Seu site funciona bem no celular?",
-  "items": [
-   "A maioria das buscas vem do celular",
-   "Site lento faz o cliente desistir",
-   "Botão de WhatsApp sempre à vista",
-   "Endereço e horário fáceis de achar",
-   "Cadeado (HTTPS) passa confiança"
-  ],
-  "caption": "Abre o site da sua empresa no celular agora. Ele carrega rápido? Dá pra ler sem dar zoom? 📱\n\nHoje a maior parte das pessoas pesquisa pelo celular. Se o site é lento ou bagunçado na tela pequena, o cliente volta pro Google e clica no concorrente.\n\nQuer saber se o seu passa no teste? Manda o link no direct que eu dou uma olhada.\n\n#site #sitesresponsivos #presencadigital #pequenosnegocios #rolandia #marketingdigital",
-  "data": "2026-10-18"
- },
- {
-  "slug": "10-seo-local",
-  "tag": "// SEU NEGÓCIO NO GOOGLE",
-  "title": "SEO local: o básico que funciona",
-  "items": [
-   "Nome, endereço e fone iguais em tudo",
-   "Categoria certa no Perfil da Empresa",
-   "Fotos novas com frequência",
-   "Cidade e bairro nos textos do site",
-   "Avaliações recentes e respondidas"
-  ],
-  "caption": "Aparecer no Google da sua cidade não é sorte, é consistência 📍\n\nO Google cruza as informações do seu Perfil da Empresa, do seu site e de outros lugares da internet. Quando tudo bate e está atualizado, ele confia mais e te mostra mais vezes pra quem busca perto.\n\nQuer ajuda pra colocar seu negócio no mapa de Rolândia? Chama no direct.\n\n#seolocal #google #perfildaempresa #negociolocal #rolandia #marketinglocal",
-  "data": "2026-10-19"
- },
- {
-  "slug": "11-ia-como-pedir",
-  "tag": "// INTELIGÊNCIA ARTIFICIAL",
-  "title": "IA no trabalho: como pedir do jeito certo",
-  "items": [
-   "Dê contexto: quem é você e o objetivo",
-   "Diga o formato: lista, tabela, e-mail",
-   "Mostre um exemplo do que espera",
-   "Peça ajustes até ficar bom",
-   "Revise sempre: a IA também erra"
-  ],
-  "caption": "Resposta genérica da IA geralmente vem de pedido genérico 🤖\n\nQuanto mais contexto você dá, melhor o resultado. Trate a IA como um assistente novo: explique a tarefa, mostre um exemplo e confira o que ela entregou antes de usar. E evite colar dados sensíveis de clientes.\n\nQual tarefa do seu dia você quer acelerar com IA? Conta nos comentários 👇\n\n#inteligenciaartificial #ia #produtividade #trabalho #tecnologia #dicasdetecnologia",
-  "data": "2026-10-20"
- },
- {
-  "slug": "12-por-tras-do-sistema",
-  "tag": "// PROGRAMAÇÃO",
-  "title": "O que existe por trás de um sistema?",
-  "items": [
-   "Front-end: a tela (HTML, CSS, JS)",
-   "Back-end: as regras (Python, PHP...)",
-   "Banco de dados: guarda tudo (SQL)",
-   "API: a ponte entre as partes"
-  ],
-  "caption": "Quando você clica em \"finalizar pedido\", várias partes trabalham juntas em segundos 👨‍💻\n\nO front-end é o que você vê, o back-end aplica as regras (estoque, preço, login), o banco de dados guarda as informações e a API faz essas partes conversarem.\n\nSeu negócio precisa de um sistema sob medida? Chama no direct que a gente conversa.\n\n#programacao #desenvolvimentodesistemas #frontend #backend #tecnologia #rolandia",
-  "data": "2026-10-21"
- },
- {
-  "slug": "13-senhas",
-  "tag": "// SEGURANÇA",
-  "title": "Pare de usar a mesma senha em tudo",
-  "items": [
-   "Uma senha diferente para cada conta",
-   "Prefira frases longas a senhas curtas",
-   "Use um gerenciador de senhas",
-   "Ative a verificação em duas etapas",
-   "Desconfie de link pedindo sua senha"
-  ],
-  "caption": "Se um site onde você tem conta vaza, quem usa a mesma senha em tudo perde o e-mail, as redes e até o banco de uma vez 🔐\n\nSenha longa e única + verificação em duas etapas já bloqueia a maioria dos ataques comuns. E o gerenciador de senhas lembra tudo por você.\n\nPrecisa de ajuda pra deixar suas contas mais seguras? Chama no direct.\n\n#segurancadigital #senhas #autenticacaodoisfatores #ciberseguranca #informatica #rolandia",
-  "data": "2026-10-22"
- },
- {
-  "slug": "14-wifi-casa",
-  "tag": "// TECNOLOGIA",
-  "title": "Wi-Fi fraco em casa? Tente isso",
-  "items": [
-   "Roteador no centro e no alto da casa",
-   "Longe de micro-ondas e paredes grossas",
-   "Perto do roteador? Use a rede 5 GHz",
-   "Reinicie e atualize o roteador",
-   "Casa grande? Considere rede mesh"
-  ],
-  "caption": "Nem sempre o problema é a internet contratada, muitas vezes é onde o roteador está 📶\n\nRoteador escondido atrás da TV ou num canto da casa perde sinal fácil. A rede 5 GHz é mais rápida de perto, e a 2.4 GHz alcança mais longe. Pra casas grandes, um sistema mesh espalha o sinal sem quedas.\n\nQual cômodo da sua casa é a zona morta do Wi-Fi? Conta aqui 👇\n\n#wifi #internet #roteador #tecnologia #dicasdetecnologia #rolandia",
-  "data": "2026-10-23"
- },
- {
-  "slug": "15-hd-morrendo",
-  "tag": "// MANUTENÇÃO",
-  "title": "Sinais de que seu HD ou SSD está no fim",
-  "items": [
-   "Arquivos somem ou não abrem mais",
-   "Cliques e barulhos estranhos (HD)",
-   "Travamentos e lentidão do nada",
-   "Tela azul ou erro ao ligar o PC",
-   "Notou algo? Backup antes de tudo"
-  ],
-  "caption": "Disco não costuma morrer de uma vez: ele dá sinais antes 💾\n\nSe o PC começou a travar sem motivo, arquivos estão corrompendo ou o HD está fazendo barulho de clique, não espere. Primeiro salve seus arquivos, depois vale checar a saúde do disco (o S.M.A.R.T., com programas como o CrystalDiskInfo) e, se for o caso, trocar.\n\nSeu computador está com algum desses sintomas? Chama no direct que eu dou uma olhada.\n\n#manutencaodecomputadores #ssd #hd #backup #informatica #rolandia",
-  "data": "2026-10-24"
- },
- {
-  "slug": "16-dominio-proprio",
-  "tag": "// SITES",
-  "title": "Por que ter um domínio próprio?",
-  "items": [
-   "seunegocio.com.br passa confiança",
-   "E-mail profissional com seu nome",
-   "O endereço é seu, não da plataforma",
-   "Fácil de lembrar e divulgar",
-   "No Brasil, .com.br é no Registro.br"
-  ],
-  "caption": "Domínio é o endereço do seu site, tipo seunegocio.com.br 🌐\n\nCom ele você ganha um endereço fácil de divulgar, pode ter e-mail profissional (contato@seunegocio.com.br em vez de um @gmail) e não fica preso a nenhuma plataforma. O registro de .com.br é feito no Registro.br e custa pouco por ano.\n\nQuer ajuda pra escolher o domínio e colocar seu site no ar? Me chama no direct.\n\n#sites #dominio #emailprofissional #presencadigital #pequenosnegocios #rolandia",
-  "data": "2026-10-25"
- },
- {
-  "slug": "17-erros-perfil-google",
-  "tag": "// SEU NEGÓCIO NO GOOGLE",
-  "title": "Erros que escondem sua empresa no Google",
-  "items": [
-   "Horário desatualizado (e feriados)",
-   "Categoria principal errada",
-   "Só a foto do logo, nada do local",
-   "Nome cheio de palavras-chave",
-   "Perfil criado e nunca verificado"
-  ],
-  "caption": "Ter o Perfil da Empresa no Google é o primeiro passo, mas alguns detalhes atrapalham bastante 📍\n\nCliente que chega e encontra a porta fechada não volta. Categoria errada faz você aparecer na busca errada. E colocar palavras-chave no nome da empresa vai contra as regras do Google e pode até suspender o perfil.\n\nQuer que eu revise o perfil da sua empresa? Comenta \"GOOGLE\" ou chama no direct.\n\n#googlemeunegocio #perfildaempresa #seolocal #marketinglocal #pequenosnegocios #rolandia",
-  "data": "2026-10-26"
- },
- {
-  "slug": "18-ia-o-que-nao-colocar",
-  "tag": "// INTELIGÊNCIA ARTIFICIAL",
-  "title": "IA no trabalho: o que NÃO colar no chat",
-  "items": [
-   "Senhas e dados bancários",
-   "CPF e dados de clientes",
-   "Contratos e informações sigilosas",
-   "Troque nomes reais por exemplos",
-   "Siga a política de IA da empresa"
-  ],
-  "caption": "A IA ajuda muito no dia a dia: resume, organiza, rascunha. Mas tudo que você cola no chat sai do seu computador e vai pros servidores do serviço 🤖\n\nAntes de colar um documento, pense: eu mandaria isso por e-mail pra um desconhecido? Se não, tire os dados sensíveis ou troque por exemplos. E se a empresa tiver regras ou uma versão corporativa da ferramenta, use ela.\n\nVocê já usa IA no trabalho? Conta aqui nos comentários 👇\n\n#inteligenciaartificial #produtividade #privacidade #lgpd #tecnologia",
-  "data": "2026-10-27"
- },
- {
-  "slug": "19-python-automacao",
-  "tag": "// PROGRAMAÇÃO",
-  "title": "Tarefas chatas que o Python resolve",
-  "items": [
-   "Renomear centenas de arquivos",
-   "Juntar várias planilhas em uma",
-   "Gerar relatórios automáticos",
-   "Enviar e-mails em lote",
-   "Puxar dados de sites e sistemas"
-  ],
-  "caption": "Sabe aquela tarefa repetitiva que toma sua tarde toda? Muitas vezes um script de poucas linhas em Python faz em segundos 🐍\n\nCom bibliotecas como pandas (planilhas) e openpyxl (Excel), dá pra automatizar boa parte do trabalho de escritório, e o script pode rodar sozinho todo dia.\n\nTem alguma tarefa repetitiva na sua empresa que dava pra automatizar? Conta nos comentários ou chama no direct.\n\n#python #automacao #programacao #produtividade #desenvolvimentodesistemas #rolandia",
-  "data": "2026-10-28"
- },
- {
-  "slug": "20-golpe-whatsapp",
-  "tag": "// SEGURANÇA",
-  "title": "Golpe no WhatsApp: como se proteger",
-  "items": [
-   "Nunca repasse o código do SMS",
-   "Ative a confirmação em duas etapas",
-   "Pediu Pix? Ligue e confirme antes",
-   "Número novo + foto conhecida: cuidado",
-   "Foto de perfil só para contatos"
-  ],
-  "caption": "Os golpes mais comuns no WhatsApp são dois: clonar sua conta pedindo o código de 6 dígitos, e criar um número novo com a foto de alguém conhecido pra pedir dinheiro 📱\n\nO código do WhatsApp é só seu, ninguém de empresa nenhuma precisa dele. Ative a confirmação em duas etapas (Configurações > Conta) e, se alguém pedir Pix, ligue pra pessoa antes de transferir.\n\nCompartilha com aquele familiar que precisa ver isso 👇\n\n#golpe #whatsapp #segurancadigital #pix #ciberseguranca #rolandia",
-  "data": "2026-10-29"
- },
- {
-  "slug": "21-windows-10",
-  "tag": "// TECNOLOGIA",
-  "title": "Windows 10 sem atualizações: e agora?",
-  "items": [
-   "Sem atualização, mais brecha p/ vírus",
-   "Veja se seu PC aceita o Windows 11",
-   "Ele exige TPM 2.0 e CPU mais nova",
-   "Faça backup antes de atualizar",
-   "PC antigo? Avalie a troca com calma"
-  ],
-  "caption": "O suporte ao Windows 10 terminou em outubro de 2025, e o período extra de atualizações de segurança (ESU) para uso doméstico acabou agora em outubro de 2026 🖥️\n\nO computador continua ligando normalmente, mas sem correções de segurança fica mais exposto. O app \"Verificação de Integridade do PC\" mostra se sua máquina pode ir pro Windows 11. Se não puder, dá pra avaliar com calma o que vale mais a pena.\n\nNão sabe se seu PC aguenta o Windows 11? Chama no direct que eu verifico.\n\n#windows10 #windows11 #manutencaodecomputadores #segurancadigital #informatica #rolandia",
-  "data": "2026-10-30"
- },
- {
-  "slug": "22-notebook-esquentando",
-  "tag": "// MANUTENÇÃO",
-  "title": "Notebook esquentando demais?",
-  "items": [
-   "Use em mesa firme, não na cama",
-   "Deixe as saídas de ar livres",
-   "Poeira no cooler trava o ar",
-   "Pasta térmica seca piora o calor",
-   "Feche o que roda à toa"
-  ],
-  "caption": "Notebook quente, ventoinha gritando e tudo ficando lento? Quando esquenta demais, o processador reduz a velocidade sozinho pra se proteger, e aí o desempenho cai 🔥\n\nUsar em cima da cama ou do sofá tampa as entradas de ar. E com o tempo a poeira acumula no cooler e a pasta térmica resseca, aí só uma limpeza interna resolve.\n\nO seu tá esquentando? Me chama no direct que eu dou uma olhada.\n\n#notebook #manutencaodenotebook #limpezainterna #informatica #rolandia",
-  "data": "2026-10-31"
- },
- {
-  "slug": "23-o-que-um-site-precisa",
-  "tag": "// SITES",
-  "title": "O que um bom site precisa ter",
-  "items": [
-   "Botão de WhatsApp fácil de achar",
-   "Endereço, horário e mapa",
-   "Carregar rápido, até no 4G",
-   "Fotos reais do seu trabalho",
-   "Cadeado (HTTPS) na barra"
-  ],
-  "caption": "Site bonito que não ajuda o cliente a te chamar não cumpre o papel 🌐\n\nO básico que funciona: contato em um toque, informações de onde e quando você atende, página leve que abre rápido no celular, fotos de verdade do seu serviço e o cadeado do HTTPS, que mostra que a conexão é segura.\n\nQuer saber o que falta no seu site? Comenta aqui ou chama no direct.\n\n#site #sitesprofissionais #marketingdigital #pequenasempresas #empreendedorismo #rolandia",
-  "data": "2026-11-01"
- },
- {
-  "slug": "24-avaliacoes-google",
-  "tag": "// SEU NEGÓCIO NO GOOGLE",
-  "title": "Como ter mais avaliações no Google",
-  "items": [
-   "Peça logo após um bom atendimento",
-   "Envie o link direto pra avaliar",
-   "Responda todas, até as negativas",
-   "Agradeça quem deixou avaliação",
-   "Nunca compre avaliação falsa"
-  ],
-  "caption": "Avaliação no Google pesa muito na hora de alguém escolher entre você e o concorrente ⭐\n\nO jeito mais simples é pedir: no Perfil da Empresa tem a opção de gerar um link direto pra avaliação, é só mandar pelo WhatsApp depois do atendimento. Responder com educação, inclusive as críticas, mostra que você cuida do cliente.\n\nE nada de comprar avaliação: vai contra as regras do Google e pode prejudicar o perfil.\n\nPrecisa de ajuda com seu perfil? Chama no direct.\n\n#googlemeunegocio #perfildaempresa #seolocal #avaliacoes #pequenasempresas #rolandia",
-  "data": "2026-11-02"
- },
- {
-  "slug": "25-ia-confira-resposta",
-  "tag": "// INTELIGÊNCIA ARTIFICIAL",
-  "title": "IA também erra: confira sempre",
-  "items": [
-   "Ela pode inventar dados com confiança",
-   "Confira números, datas e leis",
-   "Peça a fonte e abra o link",
-   "Revise antes de mandar ao cliente",
-   "Use como rascunho, não verdade final"
-  ],
-  "caption": "A IA ajuda muito no dia a dia, mas às vezes ela responde algo errado com toda a segurança do mundo. Isso tem até nome: \"alucinação\" 🤖\n\nPra resumir, revisar texto ou organizar ideias ela é ótima. Mas valor, data, lei ou informação técnica: confira antes de usar. Ela agiliza o trabalho, a responsabilidade pelo resultado continua sendo sua.\n\nVocê já pegou a IA inventando alguma coisa? Conta aqui nos comentários 👇\n\n#inteligenciaartificial #ia #produtividade #trabalho #tecnologia",
-  "data": "2026-11-03"
- },
- {
-  "slug": "26-javascript",
-  "tag": "// PROGRAMAÇÃO",
-  "title": "JavaScript: a linguagem da web",
-  "items": [
-   "Roda direto no navegador",
-   "Deixa as páginas interativas",
-   "Com Node.js, roda no servidor",
-   "Java e JavaScript são diferentes",
-   "Boa porta de entrada na web"
-  ],
-  "caption": "Quase todo site que você abre usa JavaScript. É ele que faz o menu abrir, o formulário avisar que faltou um campo e a página atualizar sem recarregar 💻\n\nCom o Node.js, a mesma linguagem também roda no servidor. E não, apesar do nome, Java e JavaScript são linguagens bem diferentes.\n\nTá começando na programação e ficou com dúvida? Manda nos comentários.\n\n#javascript #programacao #desenvolvimentoweb #nodejs #devs #tecnologia",
-  "data": "2026-11-04"
- },
- {
-  "slug": "27-email-falso",
-  "tag": "// SEGURANÇA",
-  "title": "E-mail falso: como identificar",
-  "items": [
-   "Confira o endereço do remetente",
-   "Urgência demais é sinal de golpe",
-   "Veja o link antes de clicar",
-   "Banco não pede senha por e-mail",
-   "Anexo inesperado? Não abra"
-  ],
-  "caption": "\"Sua conta será bloqueada hoje\", \"pagamento pendente\", \"clique para regularizar\"... e-mail falso (phishing) sempre tenta te apressar 📧\n\nAntes de clicar, olhe o endereço completo de quem enviou e passe o mouse no link pra ver pra onde ele leva de verdade. Na dúvida, entre no site ou app oficial digitando o endereço você mesmo.\n\nRecebeu algo suspeito? Me manda no direct que eu te ajudo a conferir.\n\n#phishing #segurancadigital #golpe #ciberseguranca #email #rolandia",
-  "data": "2026-11-05"
- },
- {
-  "slug": "28-memoria-ram",
-  "tag": "// TECNOLOGIA",
-  "title": "Quanta memória RAM você precisa?",
-  "items": [
-   "8 GB: básico, já fica no limite",
-   "16 GB: o ideal pra maioria",
-   "32 GB: edição pesada e jogos",
-   "Veja o uso no Gerenciador",
-   "Muitos notebooks aceitam upgrade"
-  ],
-  "caption": "Navegador com várias abas, planilha, WhatsApp Web e reunião ao mesmo tempo: é a memória RAM que segura tudo isso aberto 🧠\n\nNo Windows 11, 8 GB funciona, mas aperta rápido. Pra maioria das pessoas, 16 GB dá folga. Abra o Gerenciador de Tarefas (Ctrl+Shift+Esc), aba Desempenho, e veja quanto está usando.\n\nAtenção: alguns notebooks têm a memória soldada na placa e não dá pra aumentar. Quer saber se o seu aceita? Chama no direct.\n\n#memoriaram #upgrade #informatica #notebook #manutencaodecomputadores #rolandia",
-  "data": "2026-11-06"
- },
- {
-  "slug": "29-hd-para-ssd",
-  "tag": "// MANUTENÇÃO",
-  "title": "Trocar o HD por SSD vale a pena?",
-  "items": [
-   "O Windows liga bem mais rápido",
-   "Programas abrem sem aquela espera",
-   "Sem peças móveis: aguenta mais tranco",
-   "Dá pra clonar e manter seus arquivos",
-   "Confira o encaixe: SATA ou M.2"
-  ],
-  "caption": "PC ou notebook com HD demorando uma eternidade pra ligar? Muitas vezes o problema não é o processador, é o disco 💾\n\nO HD tem um disco girando e uma agulha lendo os dados. O SSD é todo eletrônico, por isso lê e grava muito mais rápido. Na maioria das máquinas que ainda usam HD, essa troca é o upgrade que mais aparece no dia a dia.\n\nDá pra clonar o sistema pro SSD e continuar com seus programas e arquivos. Antes de comprar, vale ver qual encaixe a sua máquina aceita (SATA ou M.2).\n\nQuer saber se o seu aceita SSD? Chama no direct que eu verifico.\n\n#ssd #upgrade #notebook #manutencaodecomputadores #informatica #rolandia",
-  "data": "2026-11-07"
- }
+  {
+    "slug": "01-pc-lento",
+    "tag": "// MANUTENÇÃO",
+    "title": "PC lento? Cheque isso antes de formatar",
+    "items": [
+      "Programas abrindo junto com o Windows",
+      "Disco quase cheio (deixe 15% livre)",
+      "Poeira travando o cooler",
+      "HD antigo: um SSD muda tudo",
+      "Vírus e extensões estranhas no navegador"
+    ],
+    "caption": "Nem todo PC lento precisa ser formatado 💻\n\nAntes de apagar tudo, vale olhar esses 5 pontos. Na maioria das vezes o problema é um deles, e só trocar o HD por um SSD já deixa o computador outro.\n\nSalva esse post pra quando precisar 📌\n\nSeu PC tá se arrastando? Chama no direct que a gente dá uma olhada.\n\n#manutencaodecomputador #pclento #ssd #informatica #rolandia #dicasdetecnologia",
+    "data": "2026-10-10"
+  },
+  {
+    "slug": "02-google",
+    "tag": "// SEU NEGÓCIO NO GOOGLE",
+    "title": "Quem não aparece no Google, não é encontrado",
+    "items": [
+      "Cadastre o Perfil da Empresa (é grátis)",
+      "Coloque horário, telefone e fotos reais",
+      "Peça avaliação aos clientes satisfeitos",
+      "Tenha um site pro Google indicar",
+      "Responda as avaliações, boas e ruins"
+    ],
+    "caption": "Quando alguém procura \"barbearia perto de mim\" ou \"conserto de PC em Rolândia\", quem aparece primeiro leva o cliente 📍\n\nO Perfil da Empresa no Google é gratuito e é a vitrine mais vista da cidade. Com um site junto, o Google confia mais no seu negócio e te mostra mais vezes.\n\nQuer ajuda pra deixar seu negócio bem posicionado? Chama no direct.\n\n#google #perfildaempresa #marketinglocal #pequenosnegocios #rolandia #negociolocal",
+    "data": "2026-10-11"
+  },
+  {
+    "slug": "03-ia-produtividade",
+    "tag": "// INTELIGÊNCIA ARTIFICIAL",
+    "title": "4 jeitos de usar IA pra ganhar tempo no trabalho",
+    "items": [
+      "Resumir e-mails e documentos longos",
+      "Rascunhar respostas para clientes",
+      "Organizar planilhas e listas",
+      "Tirar dúvidas e aprender algo novo rápido"
+    ],
+    "caption": "Inteligência artificial não é coisa de filme: hoje ela já ajuda muita gente a fazer em minutos o que levava horas 🤖\n\nO segredo é usar como assistente: ela faz o rascunho, você revisa e decide. Começa por uma dessas 4 tarefas e vê a diferença na sua semana.\n\nQuer aprender a usar IA no seu dia a dia? Comenta \"IA\" aqui embaixo.\n\n#inteligenciaartificial #ia #produtividade #tecnologia #dicasdetecnologia #trabalho",
+    "data": "2026-10-12"
+  },
+  {
+    "slug": "04-limpeza-pc",
+    "tag": "// MANUTENÇÃO",
+    "title": "De quanto em quanto tempo limpar o PC por dentro?",
+    "items": [
+      "Limpeza interna: a cada 6 meses a 1 ano",
+      "Pasta térmica: a cada 1 a 2 anos",
+      "Notebook esquentando ou fazendo barulho? Já passou da hora",
+      "Nunca use aspirador direto nas peças"
+    ],
+    "caption": "Poeira é o inimigo silencioso do computador 🌡️\n\nEla tampa o cooler, o PC esquenta, fica lento e as peças duram menos. Uma limpeza preventiva sai bem mais barata que trocar placa queimada.\n\nFaz tempo que seu PC não vê uma limpeza? Chama no direct e agenda a sua.\n\n#limpezadepc #manutencaopreventiva #notebook #pastatermica #informatica #rolandia",
+    "data": "2026-10-13"
+  },
+  {
+    "slug": "05-site-vs-instagram",
+    "tag": "// SITES",
+    "title": "Só Instagram não basta. Por quê?",
+    "items": [
+      "O Instagram é alugado, o site é seu",
+      "O Google mostra sites, não perfis",
+      "Cliente confia mais em quem tem site",
+      "Cardápio, agenda e catálogo num link só"
+    ],
+    "caption": "Instagram é ótimo pra mostrar o dia a dia, mas ele não é seu: se a conta cair ou o algoritmo mudar, você perde o contato com os clientes 📲\n\nUm site é o endereço fixo do seu negócio na internet. Aparece no Google, passa confiança e organiza tudo num link só.\n\nO ideal? Os dois trabalhando juntos.\n\nQuer saber como ficaria o seu? Chama no direct.\n\n#site #presencadigital #pequenosnegocios #marketingdigital #rolandia #empreendedorismo",
+    "data": "2026-10-14"
+  },
+  {
+    "slug": "06-linguagens",
+    "tag": "// PROGRAMAÇÃO",
+    "title": "Qual linguagem aprender primeiro?",
+    "items": [
+      "JavaScript: sites e apps, roda no navegador",
+      "Python: automação, dados e IA",
+      "Java / C#: sistemas de empresas",
+      "Dica: escolha pelo que você quer construir"
+    ],
+    "caption": "Essa é a dúvida nº 1 de quem quer começar na programação 👨‍💻\n\nNão existe linguagem \"melhor\", existe a melhor pro seu objetivo. Quer fazer sites? JavaScript. Quer automatizar tarefas ou mexer com dados? Python.\n\nO importante é começar e construir projetos de verdade.\n\nQual você está aprendendo? Conta aqui nos comentários 👇\n\n#programacao #javascript #python #desenvolvimentoweb #tecnologia #aprenderaprogramar",
+    "data": "2026-10-15"
+  },
+  {
+    "slug": "07-backup",
+    "tag": "// SEGURANÇA",
+    "title": "Backup: a regra 3-2-1",
+    "items": [
+      "3 cópias dos seus arquivos",
+      "2 lugares diferentes (PC + HD externo)",
+      "1 cópia fora de casa (nuvem)",
+      "Teste: abra um arquivo do backup de vez em quando"
+    ],
+    "caption": "HD queima, notebook é roubado, vírus apaga arquivo. Não é questão de \"se\", é de \"quando\" 💾\n\nCom a regra 3-2-1 você nunca perde fotos, documentos e arquivos do trabalho. E o melhor: dá pra deixar tudo automático.\n\nPrecisa de ajuda pra configurar seu backup? Chama no direct.\n\n#backup #segurancadigital #nuvem #informatica #dicasdetecnologia #rolandia",
+    "data": "2026-10-16"
+  },
+  {
+    "slug": "08-bateria-notebook",
+    "tag": "// MANUTENÇÃO",
+    "title": "Bateria do notebook durando mais",
+    "items": [
+      "Não use no colo, cama ou sofá",
+      "Evite deixar no sol ou no carro quente",
+      "Baixe o brilho e use modo economia",
+      "Feche apps pesados em segundo plano",
+      "Tem limite de carga em 80%? Ative"
+    ],
+    "caption": "A bateria do notebook não precisa morrer em 1 ano 🔋\n\nO maior inimigo dela é o calor. Usar o notebook em cima da cama tampa as saídas de ar, ele esquenta e a bateria se desgasta mais rápido. Muitos modelos ainda têm a opção de limitar a carga em 80%, que ajuda quem trabalha sempre na tomada.\n\nSeu notebook já não segura carga? Chama no direct que a gente avalia.\n\n#notebook #bateria #manutencaodenotebook #informatica #rolandia #dicasdetecnologia",
+    "data": "2026-10-17"
+  },
+  {
+    "slug": "09-site-celular",
+    "tag": "// SITES",
+    "title": "Seu site funciona bem no celular?",
+    "items": [
+      "A maioria das buscas vem do celular",
+      "Site lento faz o cliente desistir",
+      "Botão de WhatsApp sempre à vista",
+      "Endereço e horário fáceis de achar",
+      "Cadeado (HTTPS) passa confiança"
+    ],
+    "caption": "Abre o site da sua empresa no celular agora. Ele carrega rápido? Dá pra ler sem dar zoom? 📱\n\nHoje a maior parte das pessoas pesquisa pelo celular. Se o site é lento ou bagunçado na tela pequena, o cliente volta pro Google e clica no concorrente.\n\nQuer saber se o seu passa no teste? Manda o link no direct que eu dou uma olhada.\n\n#site #sitesresponsivos #presencadigital #pequenosnegocios #rolandia #marketingdigital",
+    "data": "2026-10-18"
+  },
+  {
+    "slug": "10-seo-local",
+    "tag": "// SEU NEGÓCIO NO GOOGLE",
+    "title": "SEO local: o básico que funciona",
+    "items": [
+      "Nome, endereço e fone iguais em tudo",
+      "Categoria certa no Perfil da Empresa",
+      "Fotos novas com frequência",
+      "Cidade e bairro nos textos do site",
+      "Avaliações recentes e respondidas"
+    ],
+    "caption": "Aparecer no Google da sua cidade não é sorte, é consistência 📍\n\nO Google cruza as informações do seu Perfil da Empresa, do seu site e de outros lugares da internet. Quando tudo bate e está atualizado, ele confia mais e te mostra mais vezes pra quem busca perto.\n\nQuer ajuda pra colocar seu negócio no mapa de Rolândia? Chama no direct.\n\n#seolocal #google #perfildaempresa #negociolocal #rolandia #marketinglocal",
+    "data": "2026-10-19"
+  },
+  {
+    "slug": "11-ia-como-pedir",
+    "tag": "// INTELIGÊNCIA ARTIFICIAL",
+    "title": "IA no trabalho: como pedir do jeito certo",
+    "items": [
+      "Dê contexto: quem é você e o objetivo",
+      "Diga o formato: lista, tabela, e-mail",
+      "Mostre um exemplo do que espera",
+      "Peça ajustes até ficar bom",
+      "Revise sempre: a IA também erra"
+    ],
+    "caption": "Resposta genérica da IA geralmente vem de pedido genérico 🤖\n\nQuanto mais contexto você dá, melhor o resultado. Trate a IA como um assistente novo: explique a tarefa, mostre um exemplo e confira o que ela entregou antes de usar. E evite colar dados sensíveis de clientes.\n\nQual tarefa do seu dia você quer acelerar com IA? Conta nos comentários 👇\n\n#inteligenciaartificial #ia #produtividade #trabalho #tecnologia #dicasdetecnologia",
+    "data": "2026-10-20"
+  },
+  {
+    "slug": "12-por-tras-do-sistema",
+    "tag": "// PROGRAMAÇÃO",
+    "title": "O que existe por trás de um sistema?",
+    "items": [
+      "Front-end: a tela (HTML, CSS, JS)",
+      "Back-end: as regras (Python, PHP...)",
+      "Banco de dados: guarda tudo (SQL)",
+      "API: a ponte entre as partes"
+    ],
+    "caption": "Quando você clica em \"finalizar pedido\", várias partes trabalham juntas em segundos 👨‍💻\n\nO front-end é o que você vê, o back-end aplica as regras (estoque, preço, login), o banco de dados guarda as informações e a API faz essas partes conversarem.\n\nSeu negócio precisa de um sistema sob medida? Chama no direct que a gente conversa.\n\n#programacao #desenvolvimentodesistemas #frontend #backend #tecnologia #rolandia",
+    "data": "2026-10-21"
+  },
+  {
+    "slug": "13-senhas",
+    "tag": "// SEGURANÇA",
+    "title": "Pare de usar a mesma senha em tudo",
+    "items": [
+      "Uma senha diferente para cada conta",
+      "Prefira frases longas a senhas curtas",
+      "Use um gerenciador de senhas",
+      "Ative a verificação em duas etapas",
+      "Desconfie de link pedindo sua senha"
+    ],
+    "caption": "Se um site onde você tem conta vaza, quem usa a mesma senha em tudo perde o e-mail, as redes e até o banco de uma vez 🔐\n\nSenha longa e única + verificação em duas etapas já bloqueia a maioria dos ataques comuns. E o gerenciador de senhas lembra tudo por você.\n\nPrecisa de ajuda pra deixar suas contas mais seguras? Chama no direct.\n\n#segurancadigital #senhas #autenticacaodoisfatores #ciberseguranca #informatica #rolandia",
+    "data": "2026-10-22"
+  },
+  {
+    "slug": "14-wifi-casa",
+    "tag": "// TECNOLOGIA",
+    "title": "Wi-Fi fraco em casa? Tente isso",
+    "items": [
+      "Roteador no centro e no alto da casa",
+      "Longe de micro-ondas e paredes grossas",
+      "Perto do roteador? Use a rede 5 GHz",
+      "Reinicie e atualize o roteador",
+      "Casa grande? Considere rede mesh"
+    ],
+    "caption": "Nem sempre o problema é a internet contratada, muitas vezes é onde o roteador está 📶\n\nRoteador escondido atrás da TV ou num canto da casa perde sinal fácil. A rede 5 GHz é mais rápida de perto, e a 2.4 GHz alcança mais longe. Pra casas grandes, um sistema mesh espalha o sinal sem quedas.\n\nQual cômodo da sua casa é a zona morta do Wi-Fi? Conta aqui 👇\n\n#wifi #internet #roteador #tecnologia #dicasdetecnologia #rolandia",
+    "data": "2026-10-23"
+  },
+  {
+    "slug": "15-hd-morrendo",
+    "tag": "// MANUTENÇÃO",
+    "title": "Sinais de que seu HD ou SSD está no fim",
+    "items": [
+      "Arquivos somem ou não abrem mais",
+      "Cliques e barulhos estranhos (HD)",
+      "Travamentos e lentidão do nada",
+      "Tela azul ou erro ao ligar o PC",
+      "Notou algo? Backup antes de tudo"
+    ],
+    "caption": "Disco não costuma morrer de uma vez: ele dá sinais antes 💾\n\nSe o PC começou a travar sem motivo, arquivos estão corrompendo ou o HD está fazendo barulho de clique, não espere. Primeiro salve seus arquivos, depois vale checar a saúde do disco (o S.M.A.R.T., com programas como o CrystalDiskInfo) e, se for o caso, trocar.\n\nSeu computador está com algum desses sintomas? Chama no direct que eu dou uma olhada.\n\n#manutencaodecomputadores #ssd #hd #backup #informatica #rolandia",
+    "data": "2026-10-24"
+  },
+  {
+    "slug": "16-dominio-proprio",
+    "tag": "// SITES",
+    "title": "Por que ter um domínio próprio?",
+    "items": [
+      "seunegocio.com.br passa confiança",
+      "E-mail profissional com seu nome",
+      "O endereço é seu, não da plataforma",
+      "Fácil de lembrar e divulgar",
+      "No Brasil, .com.br é no Registro.br"
+    ],
+    "caption": "Domínio é o endereço do seu site, tipo seunegocio.com.br 🌐\n\nCom ele você ganha um endereço fácil de divulgar, pode ter e-mail profissional (contato@seunegocio.com.br em vez de um @gmail) e não fica preso a nenhuma plataforma. O registro de .com.br é feito no Registro.br e custa pouco por ano.\n\nQuer ajuda pra escolher o domínio e colocar seu site no ar? Me chama no direct.\n\n#sites #dominio #emailprofissional #presencadigital #pequenosnegocios #rolandia",
+    "data": "2026-10-25"
+  },
+  {
+    "slug": "17-erros-perfil-google",
+    "tag": "// SEU NEGÓCIO NO GOOGLE",
+    "title": "Erros que escondem sua empresa no Google",
+    "items": [
+      "Horário desatualizado (e feriados)",
+      "Categoria principal errada",
+      "Só a foto do logo, nada do local",
+      "Nome cheio de palavras-chave",
+      "Perfil criado e nunca verificado"
+    ],
+    "caption": "Ter o Perfil da Empresa no Google é o primeiro passo, mas alguns detalhes atrapalham bastante 📍\n\nCliente que chega e encontra a porta fechada não volta. Categoria errada faz você aparecer na busca errada. E colocar palavras-chave no nome da empresa vai contra as regras do Google e pode até suspender o perfil.\n\nQuer que eu revise o perfil da sua empresa? Comenta \"GOOGLE\" ou chama no direct.\n\n#googlemeunegocio #perfildaempresa #seolocal #marketinglocal #pequenosnegocios #rolandia",
+    "data": "2026-10-26"
+  },
+  {
+    "slug": "18-ia-o-que-nao-colocar",
+    "tag": "// INTELIGÊNCIA ARTIFICIAL",
+    "title": "IA no trabalho: o que NÃO colar no chat",
+    "items": [
+      "Senhas e dados bancários",
+      "CPF e dados de clientes",
+      "Contratos e informações sigilosas",
+      "Troque nomes reais por exemplos",
+      "Siga a política de IA da empresa"
+    ],
+    "caption": "A IA ajuda muito no dia a dia: resume, organiza, rascunha. Mas tudo que você cola no chat sai do seu computador e vai pros servidores do serviço 🤖\n\nAntes de colar um documento, pense: eu mandaria isso por e-mail pra um desconhecido? Se não, tire os dados sensíveis ou troque por exemplos. E se a empresa tiver regras ou uma versão corporativa da ferramenta, use ela.\n\nVocê já usa IA no trabalho? Conta aqui nos comentários 👇\n\n#inteligenciaartificial #produtividade #privacidade #lgpd #tecnologia",
+    "data": "2026-10-27"
+  },
+  {
+    "slug": "19-python-automacao",
+    "tag": "// PROGRAMAÇÃO",
+    "title": "Tarefas chatas que o Python resolve",
+    "items": [
+      "Renomear centenas de arquivos",
+      "Juntar várias planilhas em uma",
+      "Gerar relatórios automáticos",
+      "Enviar e-mails em lote",
+      "Puxar dados de sites e sistemas"
+    ],
+    "caption": "Sabe aquela tarefa repetitiva que toma sua tarde toda? Muitas vezes um script de poucas linhas em Python faz em segundos 🐍\n\nCom bibliotecas como pandas (planilhas) e openpyxl (Excel), dá pra automatizar boa parte do trabalho de escritório, e o script pode rodar sozinho todo dia.\n\nTem alguma tarefa repetitiva na sua empresa que dava pra automatizar? Conta nos comentários ou chama no direct.\n\n#python #automacao #programacao #produtividade #desenvolvimentodesistemas #rolandia",
+    "data": "2026-10-28"
+  },
+  {
+    "slug": "20-golpe-whatsapp",
+    "tag": "// SEGURANÇA",
+    "title": "Golpe no WhatsApp: como se proteger",
+    "items": [
+      "Nunca repasse o código do SMS",
+      "Ative a confirmação em duas etapas",
+      "Pediu Pix? Ligue e confirme antes",
+      "Número novo + foto conhecida: cuidado",
+      "Foto de perfil só para contatos"
+    ],
+    "caption": "Os golpes mais comuns no WhatsApp são dois: clonar sua conta pedindo o código de 6 dígitos, e criar um número novo com a foto de alguém conhecido pra pedir dinheiro 📱\n\nO código do WhatsApp é só seu, ninguém de empresa nenhuma precisa dele. Ative a confirmação em duas etapas (Configurações > Conta) e, se alguém pedir Pix, ligue pra pessoa antes de transferir.\n\nCompartilha com aquele familiar que precisa ver isso 👇\n\n#golpe #whatsapp #segurancadigital #pix #ciberseguranca #rolandia",
+    "data": "2026-10-29"
+  },
+  {
+    "slug": "21-windows-10",
+    "tag": "// TECNOLOGIA",
+    "title": "Windows 10 sem atualizações: e agora?",
+    "items": [
+      "Sem atualização, mais brecha p/ vírus",
+      "Veja se seu PC aceita o Windows 11",
+      "Ele exige TPM 2.0 e CPU mais nova",
+      "Faça backup antes de atualizar",
+      "PC antigo? Avalie a troca com calma"
+    ],
+    "caption": "O suporte ao Windows 10 terminou em outubro de 2025, e o período extra de atualizações de segurança (ESU) para uso doméstico acabou agora em outubro de 2026 🖥️\n\nO computador continua ligando normalmente, mas sem correções de segurança fica mais exposto. O app \"Verificação de Integridade do PC\" mostra se sua máquina pode ir pro Windows 11. Se não puder, dá pra avaliar com calma o que vale mais a pena.\n\nNão sabe se seu PC aguenta o Windows 11? Chama no direct que eu verifico.\n\n#windows10 #windows11 #manutencaodecomputadores #segurancadigital #informatica #rolandia",
+    "data": "2026-10-30"
+  },
+  {
+    "slug": "22-notebook-esquentando",
+    "tag": "// MANUTENÇÃO",
+    "title": "Notebook esquentando demais?",
+    "items": [
+      "Use em mesa firme, não na cama",
+      "Deixe as saídas de ar livres",
+      "Poeira no cooler trava o ar",
+      "Pasta térmica seca piora o calor",
+      "Feche o que roda à toa"
+    ],
+    "caption": "Notebook quente, ventoinha gritando e tudo ficando lento? Quando esquenta demais, o processador reduz a velocidade sozinho pra se proteger, e aí o desempenho cai 🔥\n\nUsar em cima da cama ou do sofá tampa as entradas de ar. E com o tempo a poeira acumula no cooler e a pasta térmica resseca, aí só uma limpeza interna resolve.\n\nO seu tá esquentando? Me chama no direct que eu dou uma olhada.\n\n#notebook #manutencaodenotebook #limpezainterna #informatica #rolandia",
+    "data": "2026-10-31"
+  },
+  {
+    "slug": "23-o-que-um-site-precisa",
+    "tag": "// SITES",
+    "title": "O que um bom site precisa ter",
+    "items": [
+      "Botão de WhatsApp fácil de achar",
+      "Endereço, horário e mapa",
+      "Carregar rápido, até no 4G",
+      "Fotos reais do seu trabalho",
+      "Cadeado (HTTPS) na barra"
+    ],
+    "caption": "Site bonito que não ajuda o cliente a te chamar não cumpre o papel 🌐\n\nO básico que funciona: contato em um toque, informações de onde e quando você atende, página leve que abre rápido no celular, fotos de verdade do seu serviço e o cadeado do HTTPS, que mostra que a conexão é segura.\n\nQuer saber o que falta no seu site? Comenta aqui ou chama no direct.\n\n#site #sitesprofissionais #marketingdigital #pequenasempresas #empreendedorismo #rolandia",
+    "data": "2026-11-01"
+  },
+  {
+    "slug": "24-avaliacoes-google",
+    "tag": "// SEU NEGÓCIO NO GOOGLE",
+    "title": "Como ter mais avaliações no Google",
+    "items": [
+      "Peça logo após um bom atendimento",
+      "Envie o link direto pra avaliar",
+      "Responda todas, até as negativas",
+      "Agradeça quem deixou avaliação",
+      "Nunca compre avaliação falsa"
+    ],
+    "caption": "Avaliação no Google pesa muito na hora de alguém escolher entre você e o concorrente ⭐\n\nO jeito mais simples é pedir: no Perfil da Empresa tem a opção de gerar um link direto pra avaliação, é só mandar pelo WhatsApp depois do atendimento. Responder com educação, inclusive as críticas, mostra que você cuida do cliente.\n\nE nada de comprar avaliação: vai contra as regras do Google e pode prejudicar o perfil.\n\nPrecisa de ajuda com seu perfil? Chama no direct.\n\n#googlemeunegocio #perfildaempresa #seolocal #avaliacoes #pequenasempresas #rolandia",
+    "data": "2026-11-02"
+  },
+  {
+    "slug": "25-ia-confira-resposta",
+    "tag": "// INTELIGÊNCIA ARTIFICIAL",
+    "title": "IA também erra: confira sempre",
+    "items": [
+      "Ela pode inventar dados com confiança",
+      "Confira números, datas e leis",
+      "Peça a fonte e abra o link",
+      "Revise antes de mandar ao cliente",
+      "Use como rascunho, não verdade final"
+    ],
+    "caption": "A IA ajuda muito no dia a dia, mas às vezes ela responde algo errado com toda a segurança do mundo. Isso tem até nome: \"alucinação\" 🤖\n\nPra resumir, revisar texto ou organizar ideias ela é ótima. Mas valor, data, lei ou informação técnica: confira antes de usar. Ela agiliza o trabalho, a responsabilidade pelo resultado continua sendo sua.\n\nVocê já pegou a IA inventando alguma coisa? Conta aqui nos comentários 👇\n\n#inteligenciaartificial #ia #produtividade #trabalho #tecnologia",
+    "data": "2026-11-03"
+  },
+  {
+    "slug": "26-javascript",
+    "tag": "// PROGRAMAÇÃO",
+    "title": "JavaScript: a linguagem da web",
+    "items": [
+      "Roda direto no navegador",
+      "Deixa as páginas interativas",
+      "Com Node.js, roda no servidor",
+      "Java e JavaScript são diferentes",
+      "Boa porta de entrada na web"
+    ],
+    "caption": "Quase todo site que você abre usa JavaScript. É ele que faz o menu abrir, o formulário avisar que faltou um campo e a página atualizar sem recarregar 💻\n\nCom o Node.js, a mesma linguagem também roda no servidor. E não, apesar do nome, Java e JavaScript são linguagens bem diferentes.\n\nTá começando na programação e ficou com dúvida? Manda nos comentários.\n\n#javascript #programacao #desenvolvimentoweb #nodejs #devs #tecnologia",
+    "data": "2026-11-04"
+  },
+  {
+    "slug": "27-email-falso",
+    "tag": "// SEGURANÇA",
+    "title": "E-mail falso: como identificar",
+    "items": [
+      "Confira o endereço do remetente",
+      "Urgência demais é sinal de golpe",
+      "Veja o link antes de clicar",
+      "Banco não pede senha por e-mail",
+      "Anexo inesperado? Não abra"
+    ],
+    "caption": "\"Sua conta será bloqueada hoje\", \"pagamento pendente\", \"clique para regularizar\"... e-mail falso (phishing) sempre tenta te apressar 📧\n\nAntes de clicar, olhe o endereço completo de quem enviou e passe o mouse no link pra ver pra onde ele leva de verdade. Na dúvida, entre no site ou app oficial digitando o endereço você mesmo.\n\nRecebeu algo suspeito? Me manda no direct que eu te ajudo a conferir.\n\n#phishing #segurancadigital #golpe #ciberseguranca #email #rolandia",
+    "data": "2026-11-05"
+  },
+  {
+    "slug": "28-memoria-ram",
+    "tag": "// TECNOLOGIA",
+    "title": "Quanta memória RAM você precisa?",
+    "items": [
+      "8 GB: básico, já fica no limite",
+      "16 GB: o ideal pra maioria",
+      "32 GB: edição pesada e jogos",
+      "Veja o uso no Gerenciador",
+      "Muitos notebooks aceitam upgrade"
+    ],
+    "caption": "Navegador com várias abas, planilha, WhatsApp Web e reunião ao mesmo tempo: é a memória RAM que segura tudo isso aberto 🧠\n\nNo Windows 11, 8 GB funciona, mas aperta rápido. Pra maioria das pessoas, 16 GB dá folga. Abra o Gerenciador de Tarefas (Ctrl+Shift+Esc), aba Desempenho, e veja quanto está usando.\n\nAtenção: alguns notebooks têm a memória soldada na placa e não dá pra aumentar. Quer saber se o seu aceita? Chama no direct.\n\n#memoriaram #upgrade #informatica #notebook #manutencaodecomputadores #rolandia",
+    "data": "2026-11-06"
+  },
+  {
+    "slug": "29-hd-para-ssd",
+    "tag": "// MANUTENÇÃO",
+    "title": "Trocar o HD por SSD vale a pena?",
+    "items": [
+      "O Windows liga bem mais rápido",
+      "Programas abrem sem aquela espera",
+      "Sem peças móveis: aguenta mais tranco",
+      "Dá pra clonar e manter seus arquivos",
+      "Confira o encaixe: SATA ou M.2"
+    ],
+    "caption": "PC ou notebook com HD demorando uma eternidade pra ligar? Muitas vezes o problema não é o processador, é o disco 💾\n\nO HD tem um disco girando e uma agulha lendo os dados. O SSD é todo eletrônico, por isso lê e grava muito mais rápido. Na maioria das máquinas que ainda usam HD, essa troca é o upgrade que mais aparece no dia a dia.\n\nDá pra clonar o sistema pro SSD e continuar com seus programas e arquivos. Antes de comprar, vale ver qual encaixe a sua máquina aceita (SATA ou M.2).\n\nQuer saber se o seu aceita SSD? Chama no direct que eu verifico.\n\n#ssd #upgrade #notebook #manutencaodecomputadores #informatica #rolandia",
+    "data": "2026-11-07"
+  },
+  {
+    "slug": "30-antes-de-formatar",
+    "tag": "// BACKUP",
+    "title": "Vai formatar? Salve isso antes",
+    "items": [
+      "Documentos, fotos e Área de Trabalho",
+      "Favoritos e senhas do navegador",
+      "Arquivos do Outlook (.pst), se usar",
+      "Instaladores e chaves de programas",
+      "Abra a cópia pra ver se está ok"
+    ],
+    "caption": "Formatar apaga tudo o que está no disco. E o arquivo que mais faz falta é sempre aquele que ninguém lembrou de copiar 😅\n\nAntes de formatar, confira: pastas Documentos, Imagens, Downloads e Área de Trabalho; favoritos e senhas do navegador (ou se estão sincronizados na sua conta); arquivos do Outlook, se você usa; e os instaladores e chaves dos programas pagos.\n\nDepois de copiar pro HD externo, pendrive ou nuvem, abra alguns arquivos da cópia pra ter certeza de que estão certos.\n\nAqui em Rolândia eu faço a formatação já com o backup dos seus arquivos. Chama no direct que eu te explico como funciona.\n\n#backup #formatacao #informatica #manutencaodecomputadores #rolandia",
+    "data": "2026-11-14"
+  }
 ]
